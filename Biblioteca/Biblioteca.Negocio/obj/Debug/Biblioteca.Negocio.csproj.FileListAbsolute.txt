@@ -1,0 +1,9 @@
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csprojResolveAssemblyReference.cache
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb

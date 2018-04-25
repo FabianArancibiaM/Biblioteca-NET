@@ -1,0 +1,7 @@
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll.config
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.pdb
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.DALC\bin\Debug\EntityFramework.dll
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.DALC\bin\Debug\EntityFramework.xml
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.dll
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.pdb

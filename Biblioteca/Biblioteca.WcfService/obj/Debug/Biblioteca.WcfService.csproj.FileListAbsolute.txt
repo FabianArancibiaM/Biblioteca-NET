@@ -1,0 +1,12 @@
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.WcfService\bin\Debug\Biblioteca.WcfService.dll.config
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.WcfService\bin\Debug\Biblioteca.WcfService.dll
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.WcfService\bin\Debug\Biblioteca.WcfService.pdb
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.WcfService\bin\Debug\Biblioteca.Negocio.dll
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.WcfService\bin\Debug\EntityFramework.dll
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.WcfService\bin\Debug\Biblioteca.DALC.dll
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.WcfService\bin\Debug\Biblioteca.Negocio.pdb
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.WcfService\bin\Debug\EntityFramework.xml
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.WcfService\bin\Debug\Biblioteca.DALC.pdb
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.WcfService\obj\Debug\Biblioteca.WcfService.csprojResolveAssemblyReference.cache
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.WcfService\obj\Debug\Biblioteca.WcfService.dll
+Z:\Trabajos Visual Estudio\Repaso_NET\Biblioteca.WcfService\obj\Debug\Biblioteca.WcfService.pdb
